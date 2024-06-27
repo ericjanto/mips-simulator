@@ -1,0 +1,2 @@
+# MIPS Simulator
+The aim of this project was to write a simulator for a 5-stage multi-cycle MIPS processor. A simulator is nothing more than a functional model of a processor that mimics the behavior of a real processor but is written in a high level language. This simulator, written in C, reads a memory file consisting of MIPS instructions and data, “executes” the instructions and outputs the state of the processor and various statistics of the execution.

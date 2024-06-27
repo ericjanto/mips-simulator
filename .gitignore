@@ -1,0 +1,13 @@
+# Mars files
+
+**/Mars4_5.jar
+**/my_output.txt
+**/.DS_Store
+
+/cw1/3-xor/source_fixed_piazza.s
+/cw2/.idea
+/cw2/cmake-build-debug
+/cw2/CMakeLists.txt
+/cw2/main.c
+/cw1/TestSuiteCW1Mips.py
+/cw2/mipssim
